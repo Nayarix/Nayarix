@@ -1,4 +1,13 @@
-### Hi there 👋
+<div id="header" aling="center">
+    <img src="https://media.giphy.com/media/2gU47vbADFHsFbZD2y/giphy.gif" width="200" />
+<h1 aling="center">Hola 👋👋, soy Nazareno</h1>
+<h3 aling ="center">Soy un estudiante de ultimo año en la
+    tecinacatura de Desarrollo de Software,
+    con conocimientos que abarcan la gestión
+    de redes, el manejo de dispositivos
+    informáticos, el desarrollo de
+    aplicaciones en Unreal Engine 5.</h3>
+</div>
 
 <!--
 **Nayarix/Nayarix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
