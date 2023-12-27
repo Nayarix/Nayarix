@@ -1,7 +1,7 @@
 <div id="head" align="center">
     <img src="https://media.giphy.com/media/2gU47vbADFHsFbZD2y/giphy.gif" width="200" />
 <h1 align="center">Hola 👋👋, soy Nazareno</h1>
-<h3 align ="center">Soy un estudiante de último año en la tecnicatura de Desarrollo de Software, con conocimientos que abarcan la gestión de redes, el manejo de dispositivos informáticos y el desarrollo de aplicaciones en Unreal Engine 5. Mi enfoque principal se encuentra en el desarrollo de videojuegos, con especialización en el diseño de escenarios e implementación de animaciones en Unreal Engine 5. Además, tengo experiencia en el desarrollo de páginas web. Mi objetivo es continuar mi carrera en el campo del desarrollo de videojuegos, contribuyendo con mi experiencia y habilidades en la creación de experiencias interactivas de alta calidad.</h3>
+<h3 align ="center">Soy Técnico Superior en Desarrollo de Software, con conocimientos que abarcan la gestión de redes, el manejo de dispositivos informáticos y el desarrollo de aplicaciones en Unreal Engine 5. Mi enfoque principal se encuentra en el desarrollo de videojuegos, con especialización en el diseño de escenarios e implementación de animaciones en Unreal Engine 5. Además, tengo experiencia en el desarrollo de páginas web. Mi objetivo es continuar mi carrera en el campo del desarrollo de videojuegos, contribuyendo con mi experiencia y habilidades en la creación de experiencias interactivas de alta calidad.</h3>
 <a href="https://www.linkedin.com/in/nazareno-l%C3%B3pez-chialva-2b21a9236/">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="" width="50" height="50">
 </a>
@@ -14,7 +14,7 @@
 - 👨‍🏫 Actualmente soy Profesor de Programacion Online.
 - 🎮 Soy desarrollador de videojuegos Indi.
 - 🖥️ Tengo conocimientos en el manejo de Unreal engine 5.
-- 👨🏻‍🎓 Soy estudiante de ultimo año en Tecnicatura superior en Desarrollo de Software. 
+- 👨🏻‍🎓 Estoy graduado en Tecnicatura superior en Desarrollo de Software. 
 - 🌐 SitioWeb: https://nazarenolopezchialva.000webhostapp.com/
 - 📫 Contáctame: nazarenochialva@hotmail.com
 
