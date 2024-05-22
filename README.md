@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/2gU47vbADFHsFbZD2y/giphy.gif" width="200" />
 <h1 align="center">Hola 👋👋, soy Nazareno</h1>
 <h3 align ="center">Soy Técnico Superior en Desarrollo de Software, con conocimientos que abarcan el diseño de escenarios, la implementación de animaciones y el desarrollo de mecánicas jugables en Unreal Engine 5. Mi enfoque principal se encuentra en el desarrollo de videojuegos, para lo cual, actualmente continúo formándome a través de diversos medios. Además, tengo experiencia en el desarrollo de páginas web. Mi objetivo es continuar mi carrera en el campo del desarrollo de videojuegos, contribuyendo con mi experiencia y habilidades en la creación de experiencias interactivas de alta calidad.
-Aqui podran encontrar algunos proyectos pequeños como muestra rapida de lo aprendiendo.</h3>
+Aqui podran encontrar algunos proyectos pequeños como muestra rapida de lo que estoy aprendiendo.</h3>
 <a href="https://www.linkedin.com/in/nazareno-l%C3%B3pez-chialva-2b21a9236/">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="" width="50" height="50">
 </a>
